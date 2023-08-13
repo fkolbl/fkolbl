@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @fkolbl, (Florian Kolbl), Associate Professor at Bordeaux INP. I teach at [https://enseirb-matmeca.bordeaux-inp.fr/fr](ENSEIRB-Matmeca) and perform my research at [https://www.ims-bordeaux.fr](IMS Lab),
+- 👋 Hi, I’m @fkolbl, (Florian Kolbl), Associate Professor at Bordeaux INP. I teach at [ENSEIRB-Matmeca](https://enseirb-matmeca.bordeaux-inp.fr/fr) and perform my research at [IMS Lab](https://www.ims-bordeaux.fr),
 - 👀 I’m interested in modeling for bioelectronics and computational neurosciences.
